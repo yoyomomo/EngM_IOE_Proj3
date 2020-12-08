@@ -4,6 +4,7 @@
 ![sketch](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/sketch2.jpg)
 ![sketch](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/sketch3.jpg)
 
+![inspo](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img.png)
 ![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/prototype1.png)
 ![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/groceryProto1.png)
 ![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/groceryProto2.png)
