@@ -1,3 +1,5 @@
 # EngM_IOE_Proj3
 
-(https://github.com/yoyomomo/EngM/blob/main/imgs/img4.png)
+(https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/sketch1.jpg)
+(https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/sketch2.jpg)
+(https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/sketch3.jpg)
