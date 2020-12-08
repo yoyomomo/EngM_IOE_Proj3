@@ -1,6 +1,6 @@
 # EngM_IOE_Proj3
 
-### Sketches
+### Prototypes and Ideas
 LED mirror and proximity installation.
 ![sketch](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/sketch1.jpg)
 ![matrix](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/matrix1.png)
