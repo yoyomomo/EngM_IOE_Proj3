@@ -4,10 +4,10 @@
 #### Studio Roosegaarde
 
 *Light*  
--All of Studio Roosegarde’s projects involve the element of light. 
--Light is used as a reactive element to the user’s interaction such as Glowing Nature where hands movements cause the microorganisms to glow or just serve as a secondary component such as in Windvogel, a kite that generates energy. 
-  -In Glowing Nature, the experience is used to show the connection between biology and technology.  
-  -In Windvogel, the light’s purpose is just to make the kite’s cable visible. 
+-All of Studio Roosegarde’s projects involve the element of light.<br/>
+-Light is used as a reactive element to the user’s interaction such as Glowing Nature where hands movements cause the microorganisms to glow or just serve as a secondary component such as in Windvogel, a kite that generates energy.<br/>
+  -In Glowing Nature, the experience is used to show the connection between biology and technology.<br/>
+  -In Windvogel, the light’s purpose is just to make the kite’s cable visible.<br/>
 -Studio Roosegarde mainly focuses on visual response in relation to human interaction. 
 
 *Referencing Nature*
