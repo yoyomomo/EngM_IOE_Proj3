@@ -15,14 +15,14 @@ Due to the pandemic, the main constraints were not being able to use the labs to
 
 ## Research
 ### Studio Roosegaarde
-*Light*  
+### *Light*  
 -All of Studio Roosegarde’s projects involve the element of light.<br/>
 -Light is used as a reactive element to the user’s interaction such as Glowing Nature where hands movements cause the microorganisms to glow or just serve as a secondary component such as in Windvogel, a kite that generates energy.<br/>
   -In Glowing Nature, the experience is used to show the connection between biology and technology.<br/>
   -In Windvogel, the light’s purpose is just to make the kite’s cable visible.<br/>
 -Studio Roosegarde mainly focuses on visual response in relation to human interaction. 
 
-*Referencing Nature*<br/>
+### *Referencing Nature*<br/>
 Glowing Nature<br/>
 ![img](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img1.png)<br/>
 -An interactive experience with light emitting algae<br/>
@@ -32,7 +32,7 @@ Glowing Nature<br/>
 -It shows the poetic side of nature<br/>
 -It seems like its more beneficial to display in a dark room<br/>
 
-*Van Gogh Path*<br/>
+### *Van Gogh Path*<br/>
 ![img](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img.png)<br/>
 -A bicycle path that emits light which glows at night.<br/>
 -Interactive and innovative<br/>
@@ -41,16 +41,17 @@ Glowing Nature<br/>
 -Creates a safe environment for lone cyclists at night<br/>
 -Ideal for public space displays<br/>
 
-*Lotus Dome*<br/>
-Sensory Stimulus – Light – Public Space
-![img](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img3.png) ![img](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img3.png)
+### *Lotus Dome*<br/>
+*Sensory Stimulus – Light – Public Space*
+![img](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img3.png)<br/>
+![img](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img3.png)<br/>
 -Interactive project using light and temperature.<br/>
 -Each flower petal on the Lotus Dome is heat sensitive allowing it to react to human interaction.<br/>
 -The light from the dome also follows whoever is around it.<br/>
 -This design uses sensory stimulus and light manipulation in a public space to create dynamic and interactive designs.<br/>
 
-*Smart Highways*<br/>
-Sensory Stimulus – Light – Public Space
+### *Smart Highways*
+*Sensory Stimulus – Light – Public Space*
 ![img](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img4.jpg)<br/>
 ![img](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img5.jpg)<br/>
 -Sustainable lit up roads<br/>
@@ -61,7 +62,7 @@ Sensory Stimulus – Light – Public Space
 -Many fall asleep or lose focus at the wheel when driving at night<br/>
 -This project reimagines the driving experience at night by having the lines serve an artistic purpose as well as informational<br/>
 
-*Takeaways*<br/>
+### *Takeaways*
 -Social commentary in the realm of nature or sustainable living<br/>
 -Integrating elements of light within our projects<br/>
   -Light as a reactive component<br/>
