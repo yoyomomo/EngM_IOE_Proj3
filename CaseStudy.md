@@ -1,5 +1,5 @@
 # EngM_IOE_Proj3
-### Design Statement 
+
 
 ### Prototypes and Ideas
 LED mirror and proximity installation.
