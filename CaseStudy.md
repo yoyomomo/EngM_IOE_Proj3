@@ -38,8 +38,8 @@ Glowing Nature<br/>
 -This design uses sensory stimulus and light manipulation in a public space to create dynamic and interactive designs.<br/>
 
 *Smart Highways*<br/>
-![img](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img4.png)<br/>
-![img](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img5.png)<br/>
+![img](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img4.jpg)<br/>
+![img](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img5.jpg)<br/>
 -Sustainable lit up roads<br/>
   -Glowing lines that light up at night for approximately 8 hours<br/>
   -The paint charges during the day<br/>
@@ -79,7 +79,7 @@ Social distancing for public places/grocery stores using proximity and light.
 ![sketch](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/sketch3.jpg)
 ![matrix](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/matrix3.png)
 ![inspo](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img1.png)
-![inspo](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img4.png)
+![inspo](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img4.jpg)
 ![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/groceryProto1.png)
 ![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/groceryProto2.png)
 ![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/groceryProto3.png)
