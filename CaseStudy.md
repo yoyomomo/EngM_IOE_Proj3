@@ -78,59 +78,59 @@ While brainstorming for the project thumbnail sketches were created to help visu
 ## Design Matrix
 While using the design matrix to fully understand the project multiple things we’re noticed and noted. Despite all 3 brainstormed concepts being completely different they all had the same proximity property in common. The concepts also involved with public space or human interaction in general. Lastly, the concepts all involved some property of light to them. 
 
-*LED mirror and proximity installation.*
-Sketch
-![sketch](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/sketch1.jpg)
-Design Matrix
-![matrix](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/matrix1.png)
-Inspiration
-![inspo](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img.png)
-Mockup
-![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/prototype1.png)
-For this sketch, the main idea was to create a type of mirror that also used LEDs and possibly proximity. It would be a public installation that would promote safety at night. The prototype is mainly inspired by several designs from Studio Roosegaarde, which our group did a case study on. The studio had a project called the Van Gogh Path which showed a very organic lit pathway at night. The prototype shown here goes for less organic and more structural. Using them in alleyways that are usually dimly lit and seen as dangerous areas could become somewhere safer. The project would react like a mirror and follow whoever was in front of the structure while also increasing or decreasing in brightness depending on their proximity. 
+*LED mirror and proximity installation.*<br/>
+Sketch<br/>
+![sketch](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/sketch1.jpg)<br/>
+Design Matrix<br/>
+![matrix](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/matrix1.png)<br/>
+Inspiration<br/>
+![inspo](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img.png)<br/>
+Mockup<br/>
+![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/prototype1.png)<br/>
+For this sketch, the main idea was to create a type of mirror that also used LEDs and possibly proximity. It would be a public installation that would promote safety at night. The prototype is mainly inspired by several designs from Studio Roosegaarde, which our group did a case study on. The studio had a project called the Van Gogh Path which showed a very organic lit pathway at night. The prototype shown here goes for less organic and more structural. Using them in alleyways that are usually dimly lit and seen as dangerous areas could become somewhere safer. The project would react like a mirror and follow whoever was in front of the structure while also increasing or decreasing in brightness depending on their proximity.<br/>
 
-*Social distancing wearable that uses proximity and light.*
-Sketch
-![sketch](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/sketch2.jpg)
-Design Matrix
-![matrix](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/matrix2.png)
-Inspiration
-![sensor](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/sensor.jpg)
-Mockups
-![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/socialDistanceProto2.png)
-![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/socialDistanceProto1.png)
-Prototyping
-![wearable](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/wearable.jpg)
+*Social distancing wearable that uses proximity and light.*<br/>
+Sketch<br/>
+![sketch](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/sketch2.jpg)<br/>
+Design Matrix<br/>
+![matrix](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/matrix2.png)<br/>
+Inspiration<br/>
+![sensor](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/sensor.jpg)<br/>
+Mockups<br/>
+![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/socialDistanceProto2.png)<br/>
+![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/socialDistanceProto1.png)<br/>
+Prototyping<br/>
+![wearable](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/wearable.jpg)<br/>
 ### Video
-[Wearable Prototype Video](https://youtu.be/g0b3jFRxAaI)
-The main idea of this sketch was to use the current situation with COVID19 and make a wearable that would aid in social distancing. The wearable was inspired by using conductive paint on cloth material. It was noted during the use of the conductive paint there was a proximity property to it as well. Although the range wasn’t large, when a hand was in the vicinity of the object it would switch on a light. The same concept would be applied to this wearable prototype. Utilizing proximity, LEDs, and other possible safe conductive materials a wearable, customizable patch could be created. The patch would detect if people were within a certain distance of the user the colour of the LED would change which would visually notify the user and people around them that someone has gotten to close to them.
+[Wearable Prototype Video](https://youtu.be/g0b3jFRxAaI)<br/>
+The main idea of this sketch was to use the current situation with COVID19 and make a wearable that would aid in social distancing. The wearable was inspired by using conductive paint on cloth material. It was noted during the use of the conductive paint there was a proximity property to it as well. Although the range wasn’t large, when a hand was in the vicinity of the object it would switch on a light. The same concept would be applied to this wearable prototype. Utilizing proximity, LEDs, and other possible safe conductive materials a wearable, customizable patch could be created. The patch would detect if people were within a certain distance of the user the colour of the LED would change which would visually notify the user and people around them that someone has gotten to close to them.<br/>
 
-*Social distancing for public places/grocery stores using proximity and light.*
-Sketch
-![sketch](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/sketch3.jpg)
-Design Matrix
-![matrix](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/matrix3.png)
-Inspiration
-![inspo](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img1.png)
-![inspo](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img4.jpg)
-Mockups
-![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/groceryProto1.png)
-![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/groceryProto2.png)
-![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/groceryProto3.png)
-The idea behind this sketch was to create also a concept around COVID19 and the issues related to social distancing. Specifically, social distancing in public places like grocery stores. The concept of the project was to create an interactive system for each person in the grocery store. This could mean either implementing the tech into the floor itself, have it projected from the ceiling, or have it projected from simple objects like grocery baskets or carts. The projected circular border would allow patrons to properly social distance and if there was a moment where they couldn’t the border would change its colour.
+*Social distancing for public places/grocery stores using proximity and light.*<br/>
+Sketch<br/>
+![sketch](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/sketch3.jpg)<br/>
+Design Matrix<br/>
+![matrix](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/matrix3.png)<br/>
+Inspiration<br/>
+![inspo](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img1.png)<br/>
+![inspo](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img4.jpg)<br/>
+Mockups<br/>
+![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/groceryProto1.png)<br/>
+![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/groceryProto2.png)<br/>
+![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/groceryProto3.png)<br/>
+The idea behind this sketch was to create also a concept around COVID19 and the issues related to social distancing. Specifically, social distancing in public places like grocery stores. The concept of the project was to create an interactive system for each person in the grocery store. This could mean either implementing the tech into the floor itself, have it projected from the ceiling, or have it projected from simple objects like grocery baskets or carts. The projected circular border would allow patrons to properly social distance and if there was a moment where they couldn’t the border would change its colour.<br/>
 
-*Flashlight Prototype*
-![flashlight proto](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/flashlight.jpg)
+*Flashlight Prototype*<br/>
+![flashlight proto](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/flashlight.jpg)<br/>
 ### Video
-[Flashlight Experimentation Video](https://youtu.be/DQlSCTV57ZM)
-To test the possible ways the social distancing ring would work different methods were discussed. However, due to a lack of materials improvising was needed. So, to create and mimic the effect of a projected ring a flashlight was used. The flashlight had the centre of it covered up with a sheet of paper. Initially, when it was first tried out with plain white paper it was observed that there was still a light in the centre of the ring. Assuming it was the paper just being too thin black paint was applied to the paper as well to block out any light that might be coming through. However, after testing the flashlight again it was noticed that there was a mirror inside of the flashlight causing the light to reflect in the middle despite being covered up.
+[Flashlight Experimentation Video](https://youtu.be/DQlSCTV57ZM)<br/>
+To test the possible ways the social distancing ring would work different methods were discussed. However, due to a lack of materials improvising was needed. So, to create and mimic the effect of a projected ring a flashlight was used. The flashlight had the centre of it covered up with a sheet of paper. Initially, when it was first tried out with plain white paper it was observed that there was still a light in the centre of the ring. Assuming it was the paper just being too thin black paint was applied to the paper as well to block out any light that might be coming through. However, after testing the flashlight again it was noticed that there was a mirror inside of the flashlight causing the light to reflect in the middle despite being covered up.<br/>
 
-*Creating in After Effects*
-![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/proto.png)
-![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/ae.png)
+*Creating in After Effects*<br/>
+![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/proto.png)<br/>
+![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/ae.png)<br/>
 ### Video
 [Rough Basket Prototype Video](https://youtu.be/5TZwPlmc-us)<br/>
-[Basket Prototype Video](https://youtu.be/ZmqLIr8ktWs)
+[Basket Prototype Video](https://youtu.be/ZmqLIr8ktWs)<br/>
 To create a convincing prototype After Effects was used to give the illusion of the project being real. After creating different kinds of mockups in Photoshop, the project was moved into After Effects, using self-filmed footage of walking through a simple hallway. An initial video was created where the effect of the ring on the ground is very rough, choppy, and not properly following. After taking some time to slowly edit key points and making the effects of the ring moving and changing size, the final video was created. 
 
 ## DistancRing
