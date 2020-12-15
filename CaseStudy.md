@@ -2,7 +2,6 @@
 
 ### Research
 #### Studio Roosegaarde
-
 *Light*  
 -All of Studio Roosegarde’s projects involve the element of light.<br/>
 -Light is used as a reactive element to the user’s interaction such as Glowing Nature where hands movements cause the microorganisms to glow or just serve as a secondary component such as in Windvogel, a kite that generates energy.<br/>
@@ -59,35 +58,49 @@ Glowing Nature<br/>
 
 
 ### Prototypes and Ideas
-LED mirror and proximity installation.
+*LED mirror and proximity installation.*
+Sketch
 ![sketch](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/sketch1.jpg)
+Design Matrix
 ![matrix](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/matrix1.png)
+Inspiration
 ![inspo](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img.png)
+Mockup
 ![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/prototype1.png)
 
-Social distancing wearable that uses proximity and light.
+*Social distancing wearable that uses proximity and light.*
+Sketch
 ![sketch](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/sketch2.jpg)
+Design Matrix
 ![matrix](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/matrix2.png)
+Inspiration
 ![sensor](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/sensor.jpg)
+Mockups
 ![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/socialDistanceProto2.png)
 ![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/socialDistanceProto1.png)
+Prototyping
 ![wearable](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/wearable.jpg)
 ### Video
 [Wearable Prototype Video](https://youtu.be/g0b3jFRxAaI)
 
-Social distancing for public places/grocery stores using proximity and light.
+*Social distancing for public places/grocery stores using proximity and light.*
+Sketch
 ![sketch](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/sketch3.jpg)
+Design Matrix
 ![matrix](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/matrix3.png)
+Inspiration
 ![inspo](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img1.png)
 ![inspo](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img4.jpg)
+Mockups
 ![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/groceryProto1.png)
 ![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/groceryProto2.png)
 ![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/groceryProto3.png)
+Flashlight Prototype
 ![flashlight proto](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/flashlight.jpg)
 ### Video
 [Flashlight Experimentation Video](https://youtu.be/DQlSCTV57ZM)
+Creating in After Effects
 ![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/proto.png)
-
 ![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/ae.png)
 ### Video
 [Rough Basket Prototype Video](https://youtu.be/5TZwPlmc-us)<br/>
