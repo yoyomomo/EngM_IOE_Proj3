@@ -23,7 +23,7 @@ Due to the pandemic, the main constraints were not being able to use the labs to
 -Studio Roosegarde mainly focuses on visual response in relation to human interaction. 
 
 ### *Referencing Nature*<br/>
-Glowing Nature<br/>
+*Glowing Nature*<br/>
 ![img](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img1.png)<br/>
 -An interactive experience with light emitting algae<br/>
 -It shows the ties between biology and technology<br/>
@@ -32,7 +32,7 @@ Glowing Nature<br/>
 -It shows the poetic side of nature<br/>
 -It seems like its more beneficial to display in a dark room<br/>
 
-### *Van Gogh Path*<br/>
+*Van Gogh Path*<br/>
 ![img](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img.png)<br/>
 -A bicycle path that emits light which glows at night.<br/>
 -Interactive and innovative<br/>
