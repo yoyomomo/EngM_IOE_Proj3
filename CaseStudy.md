@@ -22,8 +22,9 @@ Social distancing for public places/grocery stores using proximity and light.
 ![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/groceryProto2.png)
 ![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/groceryProto3.png)
 ![flashlight proto](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/flashlight.jpg)
-![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/ae.png)
 ![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/proto.png)
+![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/ae.png)
+
 
 ### Videos
 [Basket Prototype Video](https://youtu.be/ZmqLIr8ktWs)
