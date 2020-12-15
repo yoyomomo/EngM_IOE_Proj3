@@ -14,6 +14,7 @@ Social distancing wearable that uses proximity and light.
 ![sensor](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/sensor.jpg)
 ![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/socialDistanceProto2.png)
 ![prototype](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/socialDistanceProto1.png)
+![wearable](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/wearable.jpg)
 
 Social distancing for public places/grocery stores using proximity and light.
 ![sketch](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/sketch3.jpg)
