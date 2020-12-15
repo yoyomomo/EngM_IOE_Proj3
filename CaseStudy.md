@@ -43,8 +43,7 @@ Glowing Nature<br/>
 
 *Lotus Dome*<br/>
 Sensory Stimulus – Light – Public Space
-| ![img](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img3.png) | ![img](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img3.png) |
-|:---:|:---:|:---:|
+![img](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img3.png) ![img](https://github.com/yoyomomo/EngM_IOE_Proj3/blob/main/ioe_proj3/img3.png)
 -Interactive project using light and temperature.<br/>
 -Each flower petal on the Lotus Dome is heat sensitive allowing it to react to human interaction.<br/>
 -The light from the dome also follows whoever is around it.<br/>
